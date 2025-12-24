@@ -1,20 +1,103 @@
-# 💫 About Me:
-Aspiring Cloud and DevOps Engineer | AWS Certified <br>Motivated B.Tech CSE (AI & ML) student with hands-on experience in AWS, Docker, Linux, Python, and CI/CD<br>fundamentals. Implemented learning-based automation pipelines using Jenkins and GitHub to deploy<br>containerized applications on AWS. Familiar with EC2, ECS, ECR, IAM, and basic cloud security concepts.<br>Served as AWS Cloud Club Coordinator, conducting beginner workshops on AWS services and assisting<br>peers with cloud labs and deployments. Actively improving problem-solving skills through competitive<br>programming
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ask99Ayush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ask99Ayush) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ask99Ayush@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat-square&logo=gunicorn&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ask99Ayush&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ask99Ayush&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ask99Ayush&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ask99Ayush&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center">Hello, I'm Ayush 👋</h1>
+<h3 align="center">🚀 Aspiring Cloud & DevOps Engineer | AWS Certified | B.Tech CSE (AI & ML)</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ask99Ayush&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 👨‍💻 About Me
+
+A passionate and results-driven aspiring **Cloud & DevOps Engineer** with hands-on experience building and automating cloud-native solutions.
+
+- 🔭 I’m currently sharpening my skills in **AWS, Kubernetes, and Infrastructure as Code (Terraform)**.
+- 🌱 Learning advanced **CI/CD strategies** and **cloud security** best practices.
+- 👯 Looking to collaborate on **open-source DevOps tools** and **cloud automation projects**.
+- 💬 Ask me about **AWS, Docker, Linux, Python, and CI/CD pipelines**.
+- ⚡ Fun fact: I enjoy solving problems on LeetCode and breaking then fixing things in my home lab!
+
+🎯 **Core Skills:** `Cloud Computing` | `DevOps` | `Automation` | `Infrastructure as Code` | `Containerization`
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ask99Ayush)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ask99Ayush@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Ask99Ayush)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://ask99ayush.github.io) <!-- Replace with your actual portfolio link -->
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](#) <!-- Add your resume link -->
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+### 🔧 Tools & Frameworks
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-298729?style=for-the-badge&logo=gunicorn&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ask99Ayush&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ask99Ayush&theme=radical&hide_border=true&bg_color=00000000&layout=compact&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ask99Ayush&theme=radical&hide_border=true&background=00000000&dates=DDDDDD)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ask99Ayush&theme=onedark&no-frame=true&no-bg=true&margin-w=20&row=2&column=4)
+
+</div>
+
+---
+
+## 📂 Pinned Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Cloud-Native CI/CD Pipeline](https://github.com/Ask99Ayush/project1)** | Automated pipeline using Jenkins & GitHub Actions to deploy a containerized app on AWS ECS. | `AWS` `Docker` `Jenkins` `GitHub Actions` `Python` |
+| **[AWS Infrastructure Automation](https://github.com/Ask99Ayush/project2)** | IaC setup for provisioning EC2, VPC, and S3 using CloudFormation/Terraform. | `AWS` `Terraform` `CloudFormation` `Bash` |
+| **[Microservices Docker Compose](https://github.com/Ask99Ayush/project3)** | Local development environment for a multi-service app using Docker Compose and Nginx. | `Docker` `Docker Compose` `Nginx` `Python` `MySQL` |
+| **[DevOps Learning Repository](https://github.com/Ask99Ayush/project4)** | A curated collection of scripts, tutorials, and notes from my DevOps learning journey. | `Linux` `Bash` `Python` `AWS CLI` `Git` |
+
+---
+
+<div align="center">
+
+### 👀 Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Ask99Ayush&label=Profile%20Views&color=blueviolet&style=flat)
+
+**Thanks for visiting! Have a great day!** ✨
+
+</div>
