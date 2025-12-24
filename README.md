@@ -54,14 +54,20 @@ I am an aspiring **Cloud & DevOps Engineer** with a strong focus on building, au
 ## GitHub Activity
 
 <div align="center">
-
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ask99Ayush&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ask99Ayush&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ask99Ayush&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ask99Ayush&layout=compact&theme=radical&hide_border=true&bg_color=00000000"
+    height="170"
+    alt="Top Languages"
+  />
 </div>
 
 ---
+
 
 ## Selected Work
 
