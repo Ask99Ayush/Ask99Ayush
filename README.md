@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Ayush Rao Chaudhary</h1>
 <h3 align="center">
-Aspiring Cloud & DevOps Engineer • AWS Certified • B.Tech CSE (AI & ML)
+Aspiring Cloud & DevOps Engineer • AWS CCP • B.Tech CSE (AI & ML)
 </h3>
 
 ---
