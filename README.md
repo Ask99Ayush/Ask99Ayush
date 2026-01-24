@@ -1,84 +1,127 @@
-<h1 align="center">Hello, I'm Ayush Rao Chaudhary</h1>
+<h1 align="center">Hi, I'm Ayush Rao Chaudhary</h1>
+
 <h3 align="center">
-Aspiring Cloud & DevOps Engineer • AWS CCP • B.Tech CSE (AI & ML)
+Aspiring Cloud & DevOps Engineer · AWS Certified Cloud Practitioner · B.Tech CSE (AI & ML)
 </h3>
+
+<p align="center">
+Designing, automating, and operating scalable cloud-native systems
+</p>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I am an aspiring **Cloud & DevOps Engineer** with a strong focus on building, automating, and managing scalable cloud-native systems. I enjoy working close to infrastructure, solving operational problems, and continuously improving system reliability.
+I am an aspiring **Cloud & DevOps Engineer** focused on **infrastructure automation, CI/CD pipelines, and system reliability**.  
+I enjoy working close to production systems, solving operational challenges, and improving cloud environments using modern DevOps practices.
 
-- Actively working with **AWS, Docker, Kubernetes, and Terraform**
-- Learning advanced **CI/CD architectures** and **cloud security best practices**
-- Interested in **open-source DevOps tooling** and automation workflows
-- Comfortable with **Linux environments, scripting, and backend systems**
-- Regularly practice problem-solving and system thinking
+- Hands-on with **AWS, Docker, Kubernetes, and Terraform**
+- Learning **production-grade CI/CD**, monitoring, and cloud security
+- Strong interest in **open-source DevOps tools** and automation
+- Comfortable in **Linux environments**, scripting, and backend systems
+- Regularly practice **system thinking and problem-solving**
 
-**Core Focus Areas:**  
+**Core Focus Areas**  
 `Cloud Computing` · `DevOps` · `Automation` · `Infrastructure as Code` · `Containerization`
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,nginx,linux&perline=8" />
+</p>
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-
-### Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-298729?style=for-the-badge&logo=gunicorn&logoColor=white)
+<p align="center">
+AWS · Docker · Kubernetes · Terraform · Jenkins · GitHub Actions · Nginx · Linux
+</p>
 
 ---
 
+### 🧩 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,c,bash,powershell&perline=6" />
+</p>
 
-
-
-
-## Selected Work
-
-- **Cloud-Native CI/CD Pipeline**  
-  Automated build and deployment pipeline using Jenkins and GitHub Actions, deploying containerized applications on AWS.
-
-- **AWS Infrastructure Automation**  
-  Infrastructure-as-Code implementation for provisioning cloud resources using Terraform and CloudFormation.
-
-- **Microservices with Docker Compose**  
-  Local microservices architecture using Docker Compose and Nginx for service routing.
-
-- **DevOps Learning Repository**  
-  Curated collection of scripts, notes, and experiments covering Linux, AWS CLI, automation, and CI/CD concepts.
+<p align="center">
+Python · Go · C++ · C · Bash · PowerShell
+</p>
 
 ---
 
-## Connect With Me
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb&perline=3" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ask99Ayush)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ask99Ayush@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Ask99Ayush)
+<p align="center">
+MySQL · MongoDB · DynamoDB
+</p>
+
+---
+
+### 🔧 Tools & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,django&perline=4" />
+</p>
+
+<p align="center">
+Git · GitHub · GitLab · Django
+</p>
+
+---
+
+## 🚀 Selected Work
+
+### Cloud-Native CI/CD Automation
+- Built end-to-end CI/CD pipelines using **Jenkins** and **GitHub Actions**
+- Automated build, test, and deployment of **Dockerized applications**
+- Applied **secure secret handling** using Jenkins credentials
+- Followed **least-privilege IAM principles** for pipeline access
+
+### AWS Infrastructure Automation
+- Designed cloud infrastructure using **Terraform** and **CloudFormation**
+- Automated provisioning of compute, networking, and IAM resources
+- Implemented reusable, version-controlled infrastructure definitions
+- Focused on security, scalability, and cost-awareness
+
+### Containerized Application Architecture
+- Developed container-based services using **Docker** and **Docker Compose**
+- Configured **Nginx** as a reverse proxy for service routing
+- Practiced container networking, image optimization, and service isolation
+
+### Monitoring & System Reliability (AWS)
+- Implemented EC2 monitoring using **Amazon CloudWatch**
+- Tracked system metrics such as CPU utilization, disk usage, and memory
+- Configured alerts to notify on threshold breaches
+- Gained hands-on exposure to real-world infrastructure observability
+
+### DevOps Practice & Learning Repository
+- Maintained a hands-on repository covering **Linux**, **AWS CLI**, **CI/CD**, and automation
+- Wrote scripts and experiments aligned with real DevOps workflows
+- Focused on practical learning over theory
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/Ask99Ayush">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:Ask99Ayush@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/Ask99Ayush">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-Focused on building reliable systems and continuously improving infrastructure.
+⚙️ Focused on automation, reliability, and continuous improvement in cloud infrastructure
 </p>
