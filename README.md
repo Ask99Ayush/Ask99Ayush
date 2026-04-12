@@ -1,9 +1,3 @@
-<h1 align="center">Ayush Rao Chaudhary</h1>
-
-<h3 align="center">DevOps Engineer · Automating Scalable Cloud Infrastructure on AWS · AWS Certified Cloud Practitioner</h3>
-
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0f,50:1a0533,100:2d0a5e&height=220&section=header&text=Ayush%20Rao%20Chaudhary&fontSize=42&fontColor=c4b5fd&fontAlignY=38&desc=DevOps%20Engineer%20%C2%B7%20Automating%20Scalable%20Cloud%20Infrastructure%20on%20AWS%20%C2%B7%20AWS%20Certified%20Cloud%20Practitioner&descSize=17&descAlignY=58&descColor=8b5cf6&animation=fadeIn" width="100%"/>
   <em>Most developers push code. I make sure it gets deployed — automatically, reliably, and without breaking production.</em>
@@ -90,6 +84,3 @@ Designs and operates systems built for **zero-downtime, observability, and secur
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a5e,50:1a0533,100:0b0b0f&height=120&section=footer&text=Engineered%20for%20reliability%20%C2%B7%20Automated%20for%20scale%20%C2%B7%20Secured%20by%20design&fontSize=13&fontColor=5b21b6&fontAlignY=55&animation=fadeIn" width="100%"/>
 </div>
-
-
-<p align="center"><em>Engineered for reliability · Automated for scale · Secured by design</em></p>
