@@ -123,12 +123,9 @@ Designs and operates systems built for **zero-downtime, observability, and secur
 
 <p align="center">
   <code>LinkedIn</code>
-  &nbsp;&nbsp;
   <code>Gmail</code>
-  &nbsp;&nbsp;
   <code>Instagram</code>
 </p>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b0000,50:3d0000,100:0a0000&height=120&section=footer&text=Engineered%20for%20reliability%20%C2%B7%20Automated%20for%20scale%20%C2%B7%20Secured%20by%20design&fontSize=13&fontColor=ff4444&fontAlignY=55&animation=fadeIn" width="100%"/>
