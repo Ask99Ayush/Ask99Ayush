@@ -1,95 +1,110 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050000,50:3d0000,100:8b0000&height=200&section=header&text=Ayush%20Rao%20Chaudhary&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%C2%B7%20Automating%20Scalable%20Cloud%20Infrastructure%20%C2%B7%20AWS%20Certified%20Cloud%20Practitioner&descSize=17&descAlignY=56&descColor=ffaaaa&animation=fadeIn" width="100%"/>
 
-  <i>
-    Most developers push code. I make sure it gets deployed automatically, reliably, and without breaking production.
-  </i>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:050507,25:100812,55:220B2F,80:3A1252,100:5C197D&text=Ayush%20Rao%20Chaudhary&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20and%20DevOps%20Engineer%20%C2%B7%202x%20AWS%20Certified&descSize=18&descAlignY=56&descColor=F3E8FF&animation=fadeIn"/>
+
+<i>
+Infrastructure is invisible when it's right. I engineer for the moments no one notices—because nothing broke.
+</i>
+
 </div>
 
 ---
 
-## Engineering Profile
+# Engineering Profile
 
-DevOps Engineer focused on **CI/CD automation, containerized deployments, and reliable cloud infrastructure on AWS**.  
-Designs and operates systems built for **zero-downtime, observability, and secure production environments**.
+Cloud & DevOps Engineer, **2× AWS Certified**, building **production-grade infrastructure** with automation, security, observability, and reliability at its core.
 
----
-
-## Core Engineering Expertise
-
-- **CI/CD Engineering** — Multi-stage, zero-touch deployment pipelines  
-- **Containerized Systems** — Docker, ECS Fargate, image lifecycle management  
-- **Cloud Infrastructure** — AWS (EC2, ECS, ALB, S3, IAM, CloudWatch, SNS, Kinesis)  
-- **Observability** — Metrics, logging pipelines, real-time alerting  
-- **Cloud Security** — IAM least-privilege, secure architecture design  
-- **Reliability Engineering** — Zero-downtime deployments, failure detection systems  
+I engineer platforms that **deploy predictably, recover automatically, and scale confidently.**
 
 ---
 
-## Engineering Impact
+# Core Expertise
 
-- Engineered **13-stage CI/CD pipeline** (Jenkins + GitHub Webhooks) → zero manual deployments  
-- Delivered **~99.9% deployment uptime** using ALB rolling deployments  
-- Reduced **failure detection to <60 seconds** via CloudWatch + SNS alerting  
-- Built **centralized log pipeline** (CloudWatch → Firehose → S3) for audit-grade retention  
-- Improved **API latency by ~60–70%** using Redis caching layer  
-- Secured infrastructure with **IAM least-privilege + isolated security groups**  
-- Led **12+ hands-on DevOps workshops**, mentoring 100+ students in AWS, CI/CD, and containerization  
+- **CI/CD Automation** — Zero-touch deployments & automated rollback
+- **Infrastructure as Code** — Terraform & Ansible
+- **Container Platforms** — Docker & Kubernetes
+- **Cloud Architecture** — AWS, networking & IAM
+- **Observability** — Prometheus, Grafana & alerting
+- **Reliability Engineering** — Self-healing, backup & disaster recovery
 
 ---
 
-# Tech Stack
+# Engineering Highlights
 
-## Cloud & DevOps
+- **70% faster** deployment workflows
+- **Sub-90s** automated recovery
+- **Sub-5s** drift remediation
+- **60–70% lower** application latency
+- **Least-privilege** infrastructure by design
+
+---
+
+# Arsenal
+
+## Cloud & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,nginx,linux&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,githubactions,linux&theme=dark&perline=8"/>
 </p>
 
 <p align="center">
-  <code>AWS</code>
-  <code>Docker</code>
-  <code>Kubernetes</code>
-  <code>Terraform</code>
-  <code>Jenkins</code>
-  <code>GitHub Actions</code>
-  <code>Nginx</code>
-  <code>Linux</code>
-</p>
-
----
-
-## Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,c,bash,powershell&perline=6&theme=dark" />
-</p>
-
-<p align="center">
-  <code>Python</code>
-  <code>Go</code>
-  <code>C++</code>
-  <code>C</code>
-  <code>Bash</code>
-  <code>PowerShell</code>
+<code>AWS</code>
+<code>Terraform</code>
+<code>Ansible</code>
+<code>Docker</code>
+<code>Kubernetes</code>
+<code>Jenkins</code>
+<code>GitHub Actions</code>
+<code>Linux</code>
 </p>
 
 ---
 
-## Databases & Development Tools
+## Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,git,github,gitlab,django&perline=7&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,go,bash,fastapi,django&theme=dark&perline=5"/>
 </p>
 
 <p align="center">
-  <code>MySQL</code>
-  <code>MongoDB</code>
-  <code>DynamoDB</code>
-  <code>Git</code>
-  <code>GitHub</code>
-  <code>GitLab</code>
-  <code>Django</code>
+<code>Python</code>
+<code>Go</code>
+<code>Bash</code>
+<code>FastAPI</code>
+<code>Django</code>
+</p>
+
+---
+
+## Data Layer
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark&perline=4"/>
+</p>
+
+<p align="center">
+<code>PostgreSQL</code>
+<code>MySQL</code>
+<code>MongoDB</code>
+<code>Redis</code>
+</p>
+
+---
+
+## Observability & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nginx,prometheus,grafana,rabbitmq,kafka,git,github&theme=dark&perline=7"/>
+</p>
+
+<p align="center">
+<code>NGINX</code>
+<code>Prometheus</code>
+<code>Grafana</code>
+<code>RabbitMQ</code>
+<code>Kafka</code>
+<code>Git</code>
+<code>GitHub</code>
 </p>
 
 ---
@@ -97,23 +112,25 @@ Designs and operates systems built for **zero-downtime, observability, and secur
 # GitHub Statistics
 
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats-eight.vercel.app?user=Ask99Ayush&hide_border=true&background=0a0000&stroke=8b0000&ring=b30000&fire=ff1a1a&currStreakLabel=ff4d4d&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=999999" 
-    width="60%" 
-  />
+
+<img
+src="https://github-readme-streak-stats-eight.vercel.app?user=Ask99Ayush&hide_border=true&background=050507&stroke=5C197D&ring=A855F7&fire=C084FC&currStreakLabel=F3E8FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C4B5FD"
+width="60%"
+/>
+
 </div>
 
 ---
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ask99Ayush&bg_color=0a0000&color=ff4d4d&line=b30000&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Ask99Ayush)
+[![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=Ask99Ayush&bg_color=050507&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Ask99Ayush)
 
 </div>
 
 ---
 
-## Connect
+# Reach Out
 
 <p align="center">
   <a href="https://linkedin.com/in/Ask99Ayush">
@@ -122,11 +139,15 @@ Designs and operates systems built for **zero-downtime, observability, and secur
 </p>
 
 <p align="center">
-  <code>LinkedIn</code>
-  <code>Gmail</code>
+  <code>LinkedIn</code>&nbsp;&nbsp;&nbsp;
+  <code>Gmail</code>&nbsp;&nbsp;&nbsp;
   <code>Instagram</code>
 </p>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b0000,50:3d0000,100:0a0000&height=120&section=footer&text=Engineered%20for%20reliability%20%C2%B7%20Automated%20for%20scale%20%C2%B7%20Secured%20by%20design&fontSize=13&fontColor=ff4444&fontAlignY=55&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5C197D,50:2A103F,100:050507&text=Reliable%20Infrastructure%20%C2%B7%20Predictable%20Deployments%20%C2%B7%20Resilient%20Operations&fontSize=14&fontColor=F3E8FF&fontAlignY=55&animation=fadeIn"/>
+
 </div>
