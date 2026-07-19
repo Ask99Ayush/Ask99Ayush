@@ -29,7 +29,7 @@ I engineer platforms that **deploy predictably, recover automatically, and scale
 
 ---
 
-# Engineering Highlights
+# Impact
 
 - **70% faster** deployment workflows
 - **Sub-90s** automated recovery
@@ -39,7 +39,7 @@ I engineer platforms that **deploy predictably, recover automatically, and scale
 
 ---
 
-# Arsenal
+# Tech Stack
 
 ## Cloud & Infrastructure
 
@@ -134,14 +134,24 @@ width="60%"
 
 <p align="center">
   <a href="https://linkedin.com/in/Ask99Ayush">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail,instagram&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:Ask99Ayush@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/Ask99Ayush">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"/>
   </a>
 </p>
 
 <p align="center">
-  <code>LinkedIn</code>&nbsp;&nbsp;&nbsp;
-  <code>Gmail</code>&nbsp;&nbsp;&nbsp;
-  <code>Instagram</code>
+  <a href="https://linkedin.com/in/Ask99Ayush"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:Ask99Ayush@gmail.com"><b>Gmail</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/Ask99Ayush"><b>Instagram</b></a>
 </p>
 
 ---
