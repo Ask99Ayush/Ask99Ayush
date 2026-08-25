@@ -121,17 +121,6 @@ width="60%"
 </div>
 
 ---
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Ask99Ayush&bg_color=050507&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
-  width="95%"
-  alt="Contribution Activity"
-/>
-
-</div>
-
----
 
 # Reach Out
 
